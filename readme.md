@@ -1,4 +1,4 @@
-![TIC_TAC_TOE!](TIC TAC TOE img\Slide1.JPG)
+![TIC_TAC_TOE!](TIC_TAC_TOE\Slide1.JPG)
 
 
 1. First of all From App.js a condition will be passed(if click first time it will print "X" on the cell and assign that value to a player (it all happened trow props passed from app.js to GameBoard and then cells).
